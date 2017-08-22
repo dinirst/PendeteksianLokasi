@@ -1,7 +1,6 @@
 # ShushMe
-Google Places API demo app
+Nama  : Dini Eka Ristanti <br>
+Kelas : XII RPL 2 <br>
+NIS   : 4700/1419.070 <br>
+Sekolah : SMK Telkom Malang <br>
 
-## Screenshots
-
-![Screenshot1](screenshots/screen_1.png) ![Screenshot2](screenshots/screen_2.png) ![Screenshot3](screenshots/screen_3.png)
-![Screenshot4](screenshots/screen_4.png) ![Screenshot5](screenshots/screen_5.png) ![Screenshot6](screenshots/screen_6.png)
